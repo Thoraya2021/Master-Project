@@ -9,4 +9,7 @@
 - As A User, I Want To Edit My Posts .
 - As A User, I Want To Delete Posts Or Comments So That If Decide It's Not Necessary.
 - Edit User Profile As A User I Can Edit My Profile, Add, Delete Or Update My Account.
-
+## Admin Stories
+- As An Admin, I Can See All Users Profile And All Content Of The Website What The User Published.
+- As An Admin,  I Can Delete Users And What Is Added By The User On The Website.
+- As An Admin, I Can Update The Contents Of The Website.
